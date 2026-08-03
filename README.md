@@ -7,8 +7,8 @@ Repositório criado para documentar meu aprendizado sobre Inteligência Artifici
 ---
 
 ## 📚 Aulas Disponíveis
-* [Aula 01: Fundamentos da IA](https://github.com/olavoanselmo/IA_ParaEstudosCriativos/edit/main/README.md#-aula-01-fundamentos-da-ia)
-* [Aula 02: Tipos de IA e Como as Máquinas Aprendem](https://github.com/olavoanselmo/IA_ParaEstudosCriativos/edit/main/README.md#-aula-02-tipos-de-ia-e-como-as-m%C3%A1quinas-aprendem)
+* [Aula 01: Fundamentos da IA](#-aula-01-fundamentos-da-ia)
+* [Aula 02: Tipos de IA e Como as Máquinas Aprendem](#-aula-02-tipos-de-ia-e-como-as-m%C3%A1quinas-aprendem)
 
 ---
 
