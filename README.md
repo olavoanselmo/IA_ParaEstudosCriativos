@@ -7,7 +7,8 @@ Repositório criado para documentar meu aprendizado sobre Inteligência Artifici
 ---
 
 ## 📚 Aulas Disponíveis
-* [Aula 01: Fundamentos da IA](#-aula-01-fundamentos-da-ia)
+* [Aula 01: Fundamentos da IA](https://github.com/olavoanselmo/IA_ParaEstudosCriativos/edit/main/README.md#-aula-01-fundamentos-da-ia)
+* [Aula 02: Tipos de IA e Como as Máquinas Aprendem](https://github.com/olavoanselmo/IA_ParaEstudosCriativos/edit/main/README.md#aula-02-tipos-de-ia-e-como-as-m%C3%A1quinas-aprendem)
 
 ---
 
@@ -46,7 +47,8 @@ Este módulo apresenta os conceitos essenciais da inteligência artificial e seu
 ## 🛠️ Como usar este repositório
 1. Clone o repositório.
 
-# Aula 02: Tipos de IA e Como as Máquinas Aprendem
+## Aula 02: Tipos de IA e Como as Máquinas Aprendem
+
 
 Nesta aula, avançamos nos fundamentos da IA para entender os pilares do Machine Learning e as categorias tecnológicas que definem os sistemas atuais.
 
@@ -106,6 +108,68 @@ Ferramenta ideal para analisar e sintetizar conteúdos audiovisuais complexos da
 * Compreender como estruturar comandos avançados unindo texto, imagens e vídeos.
 
 # Aula 03 (Parte 2): Transformando Estudos com IA — Outras Ferramentas
+
+# Aula 03 (Parte 2): Transformando Estudos com IA — Outras Ferramentas
+
+Nesta segunda parte, exploramos ferramentas de IA focadas na organização visual de ideias, criação dinâmica de apresentações e estruturação de pesquisas científicas confiáveis.
+
+## 🗺️ 1. Mapify: Organização Visual e Mapas Mentais
+O Mapify é ideal para criar diagramas e mapas mentais estruturados automaticamente, ajudando a sintetizar conteúdos extensos para facilitar a memorização.
+* **Múltiplas Entradas:** Permite gerar mapas a partir de comandos diretos ("Pergunte Qualquer Coisa"), arquivos (PDF/Doc), textos longos, links de websites ou URLs de vídeos do YouTube.
+* **Customização Interativa:** Oferece opções para ajustar o nível de zoom, arrastar o mapa pelas páginas e alterar o design visual usando a ferramenta "Formato" (ícone de pincel).
+* **Armazenamento e Exportação:** Disponibiliza ferramentas na barra superior para salvar o histórico, criar novos projetos e exportar o conteúdo finalizado através do menu "Partilhar".
+
+## 📊 2. Gamma: Apresentações e Documentos Interativos
+O Gamma atua na automação do design para trabalhos escolares, apresentações em grupo ou estruturação de anotações digitais.
+* **Métodos de Criação:** Permite iniciar projetos colando blocos de textos prontos, importando arquivos/URLs ou gerando conteúdo do zero por meio de comandos de IA (prompts).
+* **Controle de Conteúdo:** O usuário define o formato (apresentação, página web ou documento), a quantidade de cartões (slides), o idioma e o nível de densidade de texto por slide.
+* **Esboço e Edição:** A IA gera um contorno inicial editável, onde é possível ajustar fontes, paletas de cores, estilo de imagem e revisar as informações antes de apresentar ou compartilhar.
+
+## 🔍 3. Elicit: Assistente Inteligente de Pesquisa Acadêmica
+O Elicit serve como um ponto de partida científico para encontrar artigos confiáveis, compilar referências e validar dados de pesquisa.
+* **Revisão de Literatura:** Busca por termos e perguntas de pesquisa complexas (ex: *"Inteligência Artificial e Educação"*) e entrega um resumo consolidado da literatura acadêmica encontrada.
+* **Extração de Dados:** Lista os principais artigos científicos indexados trazendo metadados detalhados e resumos individuais de cada estudo.
+* **Análise Comparativa:** Permite adicionar colunas personalizadas nas tabelas de busca para destacar pontos específicos e automatizar fichamentos.
+
+---
+
+## 📝 Próximos Passos
+* Combinar as ferramentas do módulo para montar um fluxo completo de trabalho (Elicit para pesquisar, Mapify para estruturar e Gamma para apresentar).
+
+
+
+
+
+
+
+
+
+# Aula 04: Ética e Responsabilidade na Inteligência Artificial
+
+Nesta aula, discutimos o impacto social e cultural das tecnologias de IA, compreendendo os riscos do uso inadequado e como adotar uma postura crítica e consciente no dia a dia.
+
+## ⚖️ O que é Ética em IA?
+* É a área que estuda os impactos sociais, econômicos e culturais dessas tecnologias.
+* Busca garantir que as ferramentas sejam construídas de forma justa, transparente e benéfica.
+* **Riscos do mau uso:** Confiar em dados falsos, prejudicar o senso crítico e entregar tarefas sem reflexão própria.
+
+## 🛡️ Os 3 Aspectos Essenciais da Ética
+Para usar a IA com segurança, precisamos analisar três pilares fundamentais:
+
+1. **Privacidade:** As ferramentas coletam e processam dados para evoluir as respostas. É essencial questionar quais informações estamos compartilhando e se o armazenamento é seguro.
+2. **Viés:** Os sistemas aprendem com dados históricos que podem conter preconceitos ou distorções. Se os dados forem limitados, os resultados também serão tendenciosos, exigindo avaliação crítica.
+3. **Responsabilidade:** Quando ocorrem erros ou plágios, a culpa é compartilhada. As empresas devem criar sistemas confiáveis, mas o usuário final tem o dever de verificar e validar toda informação recebida.
+
+## 💡 Dicas para um Uso Consciente e Seguro
+* **Conheça as limitações:** Sempre se pergunte de onde vêm os dados e se a resposta é justa e completa.
+* **Avalie o impacto:** Garanta que seu projeto seja inclusivo, considere diferentes pontos de vista e não prejudique ninguém.
+* **Complemente, nunca substitua:** Use a IA para ter ideias, pesquisar e estruturar rascunhos, mas mantenha a reflexão final e a tomada de decisões em suas mãos.
+
+---
+
+## 📝 Próximos Passos
+* Lembre-se: por trás de cada algoritmo existem decisões humanas. Cabe a você garantir o uso ético e positivo dessas ferramentas!
+
 
 Nesta segunda parte, exploramos ferramentas de IA focadas na organização visual de ideias, criação dinâmica de apresentações e estruturação de pesquisas científicas confiáveis.
 
